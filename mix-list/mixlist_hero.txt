@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+marvel_heroes=["Spider-man","Ironman","Hulk"]
+marvel_heroes=["Spider-man",1960,"Ironman",1970,"Hulk"]
+
+dc_heroes=["Superman","Wonder Woman","Batman"]
+
+print("The strongest marvel here is " + marvel_heroes[2])
