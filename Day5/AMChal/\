@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+
+# Fizzbuzz Challenge
+
+r = range(1,101)
+
+print("Printing Range 1 to 100")
+for n in r:
+    print(n)
+
+print("\n Print Fizzbuzz")
+for n in r:
+    if n % 3 == 1:
+        print("Fizz")
+    elif
+        print(n)
+
